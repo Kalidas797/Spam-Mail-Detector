@@ -1,0 +1,17 @@
+{
+  "name": "spam-mail-detector",
+  "version": "1.0.0",
+  "description": "Email Spam Detection Application",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp -r templates/index.html public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spam",
+    "detection",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "ISC"
+}
